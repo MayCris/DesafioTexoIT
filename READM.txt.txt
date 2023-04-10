@@ -1,0 +1,4 @@
+Abrir solution no Visual Studio
+Inserir arquivo movielist.csv na pasta C:\\Temp
+Executar o programa
+Ao abrir a API, executar o método Get()
